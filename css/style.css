@@ -181,4 +181,16 @@ p.cart {
     font-size: 15px;
 }
 
+/* Bootstrap */
+.btn-primary:hover, 
+.btn-primary {
+
+	color: #FFFCF2;
+	background-color: #EB5E28;
+	border-color: #EB5E28;
+}
+
+.btn-primary:hover {
+	
+}
 
